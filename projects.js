@@ -3,10 +3,10 @@ const projects = [
     title: "Analytics Dashboard",
     label: "Dashboard UI",
     description:
-      "A responsive dashboard with data cards, filtering states, charts, and a compact admin layout.",
-    tags: ["React", "Tailwind", "Charts"],
-    liveUrl: "#",
-    codeUrl: "#",
+      "A responsive dashboard of online banking app with data charts. ",
+    tags: ["Next.js", "Tailwind", "Charts", " Clarck"],
+    liveUrl: "https://github.com/AbdelrahmanM05/Banking",
+    codeUrl: "https://bankingonline.netlify.app/",
     theme: "project-one",
   },
   {
@@ -14,19 +14,19 @@ const projects = [
     label: "Commerce Flow",
     description:
       "A product browsing flow with category filters, detail views, cart states, and mobile checkout screens.",
-    tags: ["Next.js", "CSS", "API"],
-    liveUrl: "#",
-    codeUrl: "#",
+    tags: ["React.js", "CSS", "API"],
+    liveUrl: "https://fresh-shopping.netlify.app/",
+    codeUrl: "https://github.com/AbdelrahmanM05/Ecommerce-App",
     theme: "project-two",
   },
   {
     title: "Component Library",
     label: "Design System",
     description:
-      "A reusable UI kit with accessible controls, tokens, layout primitives, and documentation examples.",
-    tags: ["TypeScript", "Storybook", "A11y"],
-    liveUrl: "#",
-    codeUrl: "#",
+      "A Responsive AI Tool",
+    tags: ["TypeScript", "Next.js", "Tailwind css"],
+    liveUrl: "https://prompt-craft.netlify.app/",
+    codeUrl: "https://github.com/AbdelrahmanM05/PromptCraft",
     theme: "project-three",
   },
 ];
